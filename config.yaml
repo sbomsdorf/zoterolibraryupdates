@@ -5,7 +5,9 @@ email_configuration:
   receiver_email: "receiver@test.org"
 
 API_configuration:
-  API_key: "123456ABCDE7890"
-  user_id: "12345678"
+  #API_key: "123456ABCDE7890"
+  API_key: "AwmIsxfG9L39daG3z8tSVcfr"
+  #user_id: "12345678"
+  user_id: "8267074"
   is_group: True
-  saved_search_name: "Last week's new items"
+  period_in_days: 7
